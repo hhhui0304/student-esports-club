@@ -698,6 +698,7 @@ body.light-theme #member1 .cookie-banner p {
 
     /*body*/
     .about-card {
+        padding: 20px;
         background-color: #0d0d0d;
         border: 1px solid rgba(220, 53, 69, 0.4);
         border-radius: 10px;
@@ -840,6 +841,7 @@ body.light-theme #member2_committee .input-group-text {
     }
 
     .about-card {
+        padding: 20px;
         background-color: #0d0d0d;
         border: 1px solid rgba(220, 53, 69, 0.4);
         border-radius: 10px;
